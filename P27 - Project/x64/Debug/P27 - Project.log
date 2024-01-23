@@ -1,0 +1,14 @@
+﻿  P27 - Project.cpp
+C:\Users\Abdullrahman\Desktop\Programing\C++\CPP Project\Project 1 - Food meany\P27 - Project\P27 - Project.cpp(61,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Abdullrahman\Desktop\Programing\C++\CPP Project\Project 1 - Food meany\P27 - Project\P27 - Project.cpp(65,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Abdullrahman\Desktop\Programing\C++\CPP Project\Project 1 - Food meany\P27 - Project\P27 - Project.cpp(69,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Abdullrahman\Desktop\Programing\C++\CPP Project\Project 1 - Food meany\P27 - Project\P27 - Project.cpp(73,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Abdullrahman\Desktop\Programing\C++\CPP Project\Project 1 - Food meany\P27 - Project\P27 - Project.cpp(77,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Abdullrahman\Desktop\Programing\C++\CPP Project\Project 1 - Food meany\P27 - Project\P27 - Project.cpp(81,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Abdullrahman\Desktop\Programing\C++\CPP Project\Project 1 - Food meany\P27 - Project\P27 - Project.cpp(105,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Abdullrahman\Desktop\Programing\C++\CPP Project\Project 1 - Food meany\P27 - Project\P27 - Project.cpp(108,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Abdullrahman\Desktop\Programing\C++\CPP Project\Project 1 - Food meany\P27 - Project\P27 - Project.cpp(111,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Abdullrahman\Desktop\Programing\C++\CPP Project\Project 1 - Food meany\P27 - Project\P27 - Project.cpp(114,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Abdullrahman\Desktop\Programing\C++\CPP Project\Project 1 - Food meany\P27 - Project\P27 - Project.cpp(117,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Abdullrahman\Desktop\Programing\C++\CPP Project\Project 1 - Food meany\P27 - Project\P27 - Project.cpp(120,14): warning C4305: '=': truncation from 'double' to 'float'
+  P27 - Project.vcxproj -> C:\Users\Abdullrahman\Desktop\Programing\C++\CPP Project\Project 1 - Food meany\x64\Debug\P27 - Project.exe
